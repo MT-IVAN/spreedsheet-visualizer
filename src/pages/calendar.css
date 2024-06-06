@@ -1,0 +1,22 @@
+.box-element {
+  border-bottom: gray 1px solid !important;
+  border-radius: 1%;
+  border: 10px;
+  width: 100px;
+  height: 100px;
+}
+
+.calendar-box {
+  display: grid;
+  grid-template-columns: repeat(7, 50px);
+}
+
+.box-element {
+  text-align: center;
+  width: 100%;
+}
+
+.progress-container {
+  width: 90%;
+  margin: 5px;
+}

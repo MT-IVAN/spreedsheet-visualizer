@@ -1,0 +1,74 @@
+[
+  {
+    "fecha": "June-01-2024",
+    "description": "costillas san luis",
+    "comments": "estuveron super ricas las costillas, a mi me re encantaron muchos u",
+    "budgetId": "Monthly Budget",
+    "target": "Girldfriend",
+    "from": "AhorrosBank",
+    "value": "55,000"
+  },
+  {
+    "fecha": "June-01-2024",
+    "description": "sobre",
+    "comments": "",
+    "budgetId": "Monthly Budget",
+    "target": "Someone",
+    "from": "Cash",
+    "value": "5,000"
+  },
+  {
+    "fecha": "June-01-2024",
+    "description": "dinero sobre",
+    "comments": "",
+    "budgetId": "Monthly Budget",
+    "target": "Someone",
+    "from": "AhorrosBank",
+    "value": "50,000"
+  },
+  {
+    "fecha": "June-02-2024",
+    "description": "Helados popsy",
+    "comments": "",
+    "budgetId": "Monthly Budget",
+    "target": "Girldfriend",
+    "from": "Nu",
+    "value": "44,000"
+  },
+  {
+    "fecha": "June-02-2024",
+    "description": "collar novia",
+    "comments": "",
+    "budgetId": "Monthly Budget",
+    "target": "Girldfriend",
+    "from": "Amex",
+    "value": "52,000"
+  },
+  {
+    "fecha": "June-02-2024",
+    "description": "gomas dollar",
+    "comments": "",
+    "budgetId": "Monthly Budget",
+    "target": "Girldfriend",
+    "from": "Cash",
+    "value": "10,500"
+  },
+  {
+    "fecha": "June-02-2024",
+    "description": "granizados",
+    "comments": "",
+    "budgetId": "Monthly Budget",
+    "target": "Someone",
+    "from": "AhorrosBank",
+    "value": "36,000"
+  },
+  {
+    "fecha": "June-02-2024",
+    "description": "Family",
+    "comments": "",
+    "budgetId": "Non budget",
+    "target": "Family",
+    "from": "AhorrosBank",
+    "value": "1,100,000"
+  }
+]
