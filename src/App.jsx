@@ -3,6 +3,7 @@ import { Expenses } from './components/Expenses'
 import { AddExpensesForm } from './components/AddExpensesForm'
 import { Toaster } from 'sonner'
 import { useState } from 'react'
+import { Footer } from './components/Footer'
 
 function App() {
   const [expenses, setExpenses] = useState([])
@@ -12,6 +13,7 @@ function App() {
       <Expenses expenses={expenses} setExpenses={setExpenses} />
       <AddExpensesForm expenses={expenses} setExpenses={setExpenses} />
       <Toaster />
+      <Footer />
     </>
   )
 }

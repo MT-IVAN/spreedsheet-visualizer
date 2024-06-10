@@ -1,7 +1,6 @@
 import { Box, Progress } from '@chakra-ui/react'
 
 export function ProgressBar({ porcentage = 90 }) {
-  console.log(porcentage)
   const getColorFromPorcentage = ({ left }) => {
     if (left <= 30) {
       return 'red'

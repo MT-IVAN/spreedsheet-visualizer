@@ -1,8 +1,9 @@
-const DATA_SHEET_URI = 'http://192.168.1.14:3000/'
+//export const DATA_SHEET_URI = 'http://192.168.1.14:3000/'
+import { DATA_SHEET_URI } from '../constants/index'
 
 export async function getDataSheet({ month, week }) {
   try {
-    const fetchUri = `${DATA_SHEET_URI}?month=${month}&upToDay=${week}`
+    const fetchUri = `${DATA_SHEET_URI}expenses?month=${month}&upToDay=${week}`
     const res = await fetch(fetchUri)
     const data = await res.json()
     return data
