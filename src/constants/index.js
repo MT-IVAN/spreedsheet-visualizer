@@ -13,6 +13,6 @@ export const MONTHS = [
   'Noviembre',
   'Diciembre',
 ]
-export const DATA_SHEET_URI = 'http://localhost:3000/'
-//export const DATA_SHEET_URI =
-//  'https://spreedsheet-expenses-backend.onrender.com/'
+//export const DATA_SHEET_URI = 'http://localhost:3000/'
+export const DATA_SHEET_URI =
+  'https://6ogr6owz4b.execute-api.us-east-1.amazonaws.com/'
